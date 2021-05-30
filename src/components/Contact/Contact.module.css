@@ -1,0 +1,11 @@
+.contact-icon{
+    padding: 1.3rem;
+    background: rgb(150, 136, 150);
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    display:grid;
+    place-items: center;
+    border-radius: 50%;
+    font-size: 2rem;
+}
